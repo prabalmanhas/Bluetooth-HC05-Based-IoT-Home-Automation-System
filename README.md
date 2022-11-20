@@ -1,2 +1,4 @@
 # IoT-Based-Home-Automation-System
- IoT Based Home Automation System
+![Circuit](Documentation/Circuit.jpg)
+ 
+ 
